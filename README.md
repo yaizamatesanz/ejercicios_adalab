@@ -4,11 +4,11 @@ Este repositorio contiene los ejercicios realizados durante el Módulo 1 del cur
 
 ## Lecciones
 
-1. **Lección 1**: Variables
-2. **Lección 2**: Listas y Tuplas
-3. **Lección 3**: Diccionarios y Sets
-4. **Lección 4**: Sentencias de Control
-5. **Lección 5**: Bucles
-6. **Lección 6**: Funciones
-7. **Lección 7**: Clases
-8. **Lección 8**: Expresiones Regulares
+**Lección 1**: Variables
+**Lección 2**: Listas y Tuplas
+**Lección 3**: Diccionarios y Sets
+**Lección 4**: Sentencias de Control
+**Lección 5**: Bucles
+**Lección 6**: Funciones
+**Lección 7**: Clases
+**Lección 8**: Expresiones Regulares
