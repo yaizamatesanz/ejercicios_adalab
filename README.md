@@ -23,7 +23,7 @@ En este módulo, aprendí los conceptos básicos de Python y cómo utilizarlos p
 ## Cómo usar este repositorio
 
 1. Clona este repositorio:
-   git clone https://github.com/tuusuario/ejercicios-individuales.git
+   git clone https://github.com/yaizamatesanz/modulo_1_ejercicios_adalab.git
 2. Selecciona el archivo correspondiente.
 3. Lee las instrucciones y resuelve los ejercicios colaborativamente.
 
